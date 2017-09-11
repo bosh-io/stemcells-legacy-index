@@ -45096,6 +45096,14 @@
     "URL": "https://s3.amazonaws.com/bosh-softlayer-cpi-stemcells/light-bosh-stemcell-3445.2.1-softlayer-xen-ubuntu-trusty-go_agent.tgz"
   },
   {
+    "Key": "light-bosh-stemcell-3445.7.1-softlayer-xen-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"318a9a22cf6943fa1098666a77a8a2f1\"",
+    "SHA1": "3230422287af8450bb7468d87ec0e942a83e47d2",
+    "Size": 19012,
+    "LastModified": "2017-09-08T16:57:41.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-softlayer-cpi-stemcells/light-bosh-stemcell-3445.7.1-softlayer-xen-ubuntu-trusty-go_agent.tgz"
+  },
+  {
     "Key": "bosh-stemcell-3163-azure-hyperv-centos-7-go_agent.tgz",
     "ETag": "\"eb7f5844ef9a562942ddd6758bf080d2-126\"",
     "SHA1": "",
