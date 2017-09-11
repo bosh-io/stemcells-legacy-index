@@ -1,0 +1,3 @@
+{
+  "Content": "- google-kvm: improve the `google-*` daemon configurations\n  - fixes `ssh: handshake failed` errors on boot\n"
+}

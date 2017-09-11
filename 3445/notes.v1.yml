@@ -1,0 +1,3 @@
+{
+  "Content": "- Bump Ubuntu stemcells for [USN-3385-2: Linux kernel (Xenial HWE) vulnerabilities](https://usn.ubuntu.com/usn/usn-3385-2/)\r\n- Include gcscli for native GCS support\r\n- Bump bosh-agent to include support for colocated errand jobs\r\n- Fix occasional rsyslog hang on startup (as a workaround for https://github.com/rsyslog/rsyslog/issues/1188)"
+}

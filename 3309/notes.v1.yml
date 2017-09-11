@@ -1,0 +1,3 @@
+{
+  "Content": "- Fixes persistent disk mounting on OpenStack described in [Stemcell 3308](https://github.com/cloudfoundry/bosh/releases/tag/stable-3308)\n"
+}

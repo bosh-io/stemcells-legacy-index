@@ -1,0 +1,3 @@
+{
+  "Content": "- Periodic bump for CentOS stemcells to include CESA-2017:0933\r\n- Disable IPv6 through /proc/cmdline to eliminate possibilty of listening on tcp6/udp6"
+}

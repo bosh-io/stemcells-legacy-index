@@ -1,0 +1,3 @@
+{
+  "Content": "New:\r\n\r\n- Added `env.bosh.remove_static_libraries` (bool) to remove static libraries\r\n  - Useful to enable this option when exporting compiled releases\r\n- Added `env.bosh.ipv6.enable` (bool) to remove ipv6.disable kernel functionality at bootup time\r\n\r\nFixes:\r\n\r\n- Fixed sysstat logging\r\n- Fixed anacron's RANDOM_DELAY configuration\r\n\r\nBumps:\r\n\r\n- Bumped s3cli v0.0.60\r\n  - Updated aws-sdk-go to solve network timeout edge case\r\n- Bumped davcli v0.0.19\r\n  - Use TCP keep alive to solve network timeout edge case\r\n- Bumped bosh-agent v0.0.35\r\n  - Add `-v` to the Agent binary\r\n  - Prepared `sync_dns` action to work with future Director's DNS integration"
+}

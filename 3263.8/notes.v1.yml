@@ -1,0 +1,3 @@
+{
+  "Content": "- Bump Ubuntu stemcells for USN-3106-2: Linux kernel (Xenial HWE) vulnerability\n- Includes a fix to the bosh-agent to work more reliably with 2TB+ persistent disks\n"
+}

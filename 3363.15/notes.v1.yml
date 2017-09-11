@@ -1,0 +1,3 @@
+{
+  "Content": "- Bump Ubuntu stemcells for USN-3256-2: Linux kernel (HWE) vulnerability\r\n\r\nMisc:\r\n\r\n- Made AWS AMI backing snapshot public to support encryption of boot disks"
+}

@@ -1,0 +1,3 @@
+{
+  "Content": "- Updates Azure Ubuntu stemcells to use parted partitioner to fix slow disk partitioning\n  - Related issue: https://github.com/cloudfoundry-incubator/bosh-azure-cpi-release/issues/227\n"
+}

@@ -1,0 +1,3 @@
+{
+  "Content": "- Periodic Ubuntu stemcells update\r\n- Run `cron` in BOSH Lite stemcells so that logrotation is performed"
+}

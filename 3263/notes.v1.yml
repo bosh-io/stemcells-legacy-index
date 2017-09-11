@@ -1,0 +1,3 @@
+{
+  "Content": "- Bumps Ubuntu to Linux kernel to 4.4\n\nBased on 3262 stemcells.\n**Note: OpenStack stemcells series 3263 is broken due to https://github.com/cloudfoundry/bosh-agent/issues/98 and should not be used**\n"
+}

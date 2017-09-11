@@ -1,0 +1,3 @@
+{
+  "Content": "- Lock down rsyslog to 8.22.0 to avoid high memory usage issue https://github.com/cloudfoundry/bosh/issues/1537\n"
+}

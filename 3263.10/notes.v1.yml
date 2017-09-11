@@ -1,0 +1,3 @@
+{
+  "Content": "- Updates CentOS kernel to the latest version for \"Dirty COW\"\n  - Ubuntu stemcells were updated in previous versions at the time of Ubuntu USN updates\n- Includes fix to the bosh-agent to better support 1TB+ disk partitioning\n"
+}

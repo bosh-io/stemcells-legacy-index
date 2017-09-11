@@ -1,0 +1,3 @@
+{
+  "Content": "Reported Problems:\n- DO NOT USE _azure_ stemcell as it may cause data loss.\n- rsyslog version updated to 8.24.0, regressing on issue #1537 \n- [Out of memory errors still exists in Kernel 4.4.0.62](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1655842)\n  - will be fixed around Feb 20.\n\nChanges:\n- Fixes double -hvm- suffix problem for AWS Light stemcells\n"
+}

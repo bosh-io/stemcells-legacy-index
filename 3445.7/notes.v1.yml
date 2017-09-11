@@ -1,0 +1,3 @@
+{
+  "Content": "- Logrotate /var/log/wtmp and utmp more aggressively\r\n- Updated BOSH agent to include aggressive 5 minute timeout on NATS connection failure\r\n- Set auditd rules to be mutable by default\r\n  - Please use `auditd` job from os-conf-release to make rules immutable"
+}

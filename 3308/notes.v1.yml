@@ -1,0 +1,3 @@
+{
+  "Content": "Reported Problems:\n- On OpenStack: Mounting persistent disks not working when using `config-drive: disk` while nova is configured to use a `cdrom` config-drive due to https://github.com/cloudfoundry/bosh/issues/1503\n\nFixes:\n- Fixes SSH key installation issue introduced in [Stemcell 3306](https://github.com/cloudfoundry/bosh/releases/tag/stable-3306)\n"
+}

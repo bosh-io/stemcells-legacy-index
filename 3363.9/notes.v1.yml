@@ -1,0 +1,3 @@
+{
+  "Content": "Changes:\n- Bumps Ubuntu stemcells for USN-3208-2: Linux kernel (Xenial HWE) vulnerabilities\n- Fixes excessive \"out of memory\" errors in kernel\n  - https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1655842\n- Fixes regression to rsyslog by locking it down again to rsyslog 8.22.0\n\nAgent:\n- Fixes Azure stemcell persistent disk formatting\n- Fixes Warden stemcells SSH access\n"
+}
