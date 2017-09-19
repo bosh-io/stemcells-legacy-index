@@ -45838,5 +45838,125 @@
     "Size": 2051,
     "LastModified": "2017-08-21T20:09:12.000Z",
     "URL": "https://s3.us-east-2.amazonaws.com/bosh-windows-stemcells-production/light-bosh-stemcell-1200.3-google-kvm-windows2012R2-go_agent.tgz"
+  },
+  {
+    "Key": "openstack/bosh-stemcell-3421.26-openstack-kvm-centos-7-go_agent-raw.tgz",
+    "ETag": "\"026c8b09b8e2fa3364dfa757b76aa846-68\"",
+    "SHA1": "5164979067936650a90c1a515066d20b6442a92e",
+    "Size": 563805636,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3421.26-openstack-kvm-centos-7-go_agent-raw.tgz"
+  },
+  {
+    "Key": "openstack/bosh-stemcell-3421.26-openstack-kvm-centos-7-go_agent.tgz",
+    "ETag": "\"6e9b06632d637ef0006cb43678ae7c3d-73\"",
+    "SHA1": "2f3cf19d5631a9af565f47baa0f005d52885d652",
+    "Size": 605651209,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3421.26-openstack-kvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "openstack/bosh-stemcell-3421.26-openstack-kvm-ubuntu-trusty-go_agent-raw.tgz",
+    "ETag": "\"40f60822e05cbccad4103f8c90912da8-46\"",
+    "SHA1": "e1d336caf6dc608a09d5e54b90e2d81c6d6f6e4e",
+    "Size": 383845003,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3421.26-openstack-kvm-ubuntu-trusty-go_agent-raw.tgz"
+  },
+  {
+    "Key": "openstack/bosh-stemcell-3421.26-openstack-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"0425261bfb224f2c4ec959a564981fda-50\"",
+    "SHA1": "e33cc61b8851c50ebc2542da011c04b431e1d9a4",
+    "Size": 413185478,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-3421.26-openstack-kvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "google/bosh-stemcell-3421.26-google-kvm-centos-7-go_agent.tgz",
+    "ETag": "\"757fa8abbc2c18caa3a412d0d30115f6-72\"",
+    "SHA1": "a47ee88ee3b6ea40be0e7be0c24e4f8ce470a14d",
+    "Size": 602227113,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/google/bosh-stemcell-3421.26-google-kvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "aws/bosh-stemcell-3421.26-aws-xen-hvm-centos-7-go_agent.tgz",
+    "ETag": "\"92c1290a34b51141b66a018ec565dfae-68\"",
+    "SHA1": "6abc068d4340e534f59b741babef3072beed2182",
+    "Size": 564021749,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/aws/bosh-stemcell-3421.26-aws-xen-hvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "azure/bosh-stemcell-3421.26-azure-hyperv-centos-7-go_agent.tgz",
+    "ETag": "\"a6ad9e34a56e68e9d85e149319cdf3d7-68\"",
+    "SHA1": "928996b9f329b4f4fdde030c7875ee8f1a3b2aed",
+    "Size": 564816237,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/azure/bosh-stemcell-3421.26-azure-hyperv-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "vsphere/bosh-stemcell-3421.26-vsphere-esxi-centos-7-go_agent.tgz",
+    "ETag": "\"0afa4cddd1d54f37ea065d0d3c7e402f-75\"",
+    "SHA1": "93b17104566e332bb5fa48f636312ce3a80cf3bb",
+    "Size": 621433841,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/vsphere/bosh-stemcell-3421.26-vsphere-esxi-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "google/bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"952e24c6802540354ef1100a2bc6be11-49\"",
+    "SHA1": "3659a6a408204a2cdd9c80ab3148665f1973fca3",
+    "Size": 409661338,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/google/bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "warden/bosh-stemcell-3421.26-warden-boshlite-centos-7-go_agent.tgz",
+    "ETag": "\"60662e11a3ab8709fdffaa011a57cd4e-67\"",
+    "SHA1": "039397b77cdccda10fae2521575d8f2397bd6725",
+    "Size": 556266124,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3421.26-warden-boshlite-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "aws/bosh-stemcell-3421.26-aws-xen-hvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"c42a025746cd9a3dbbb23397ee02743d-46\"",
+    "SHA1": "de5ac6422e6e7415ccb8a2ae21e112378501ec05",
+    "Size": 383932974,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/aws/bosh-stemcell-3421.26-aws-xen-hvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "vcloud/bosh-stemcell-3421.26-vcloud-esxi-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"74080409610c03ec4bf677165f3ee07c-51\"",
+    "SHA1": "299617e4d98dc32cde38cb6c5dae47ccb51c30f1",
+    "Size": 426615037,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/vcloud/bosh-stemcell-3421.26-vcloud-esxi-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "azure/bosh-stemcell-3421.26-azure-hyperv-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"4f95ee963c405226b78ff60e65d20aa4-46\"",
+    "SHA1": "f191e8ca5f356a125a0a4e8e0e062c3cf1f66983",
+    "Size": 384638939,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/azure/bosh-stemcell-3421.26-azure-hyperv-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "vsphere/bosh-stemcell-3421.26-vsphere-esxi-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"5270a80ca3345285e595b0c4636ff1fe-51\"",
+    "SHA1": "ae9166cfc91ca00354dc5c3c052b10ae8d043a73",
+    "Size": 426555498,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/vsphere/bosh-stemcell-3421.26-vsphere-esxi-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "warden/bosh-stemcell-3421.26-warden-boshlite-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"f966e7de14fecfdb96ca77da21089b62-46\"",
+    "SHA1": "be8ec66c0176a22c888e2f03fee41a3720daa99b",
+    "Size": 381655108,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3421.26-warden-boshlite-ubuntu-trusty-go_agent.tgz"
   }
 ]
