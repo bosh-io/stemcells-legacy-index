@@ -46206,5 +46206,37 @@
     "Size": 426971291,
     "LastModified": "2017-09-19T21:52:10.000Z",
     "URL": "https://s3.amazonaws.com/bosh-core-stemcells/vcloud/bosh-stemcell-3363.37-vcloud-esxi-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3312.38-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"6d6eca0f247dc7691e278c1adfd57128\"",
+    "SHA1": "08ca04a69778bc0f35c275052224eb172ed15e20",
+    "Size": 19295,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3312.38-google-kvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3363.37-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"3924f5c8516643d9d8be336d415afc29\"",
+    "SHA1": "1b7c4ba92bcd559744b13550c0114200af734ce4",
+    "Size": 19294,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3363.37-google-kvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"250d80e3d49762ec42c69a65c0634f93\"",
+    "SHA1": "bc4df3a78575bfcd710ad4d34f86409d18ef92e6",
+    "Size": 19305,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3445.11-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"2737e198a737c585bd97254138fdf3dc\"",
+    "SHA1": "f2d51d67330b4d2289e0e9a33665815741b7a323",
+    "Size": 19308,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3445.11-google-kvm-ubuntu-trusty-go_agent.tgz"
   }
 ]
