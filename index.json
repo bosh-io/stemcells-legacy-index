@@ -46286,5 +46286,21 @@
     "Size": 17963,
     "LastModified": "2017-09-19T21:52:10.000Z",
     "URL": "https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3445.11-aws-xen-hvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3445.11-google-kvm-centos-7-go_agent.tgz",
+    "ETag": "\"458d45a62cf1546065e8873543dd4366\"",
+    "SHA1": "3e7fb6cc4ce58e5e20c3854786902b051ccd8db1",
+    "Size": 18168,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3445.11-google-kvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3421.26-google-kvm-centos-7-go_agent.tgz",
+    "ETag": "\"e09c6a92ecf0b721a6b77149b8c203ac\"",
+    "SHA1": "acc67a6f21bcf575cd7a33860f6e702d3dbfbc3e",
+    "Size": 18171,
+    "LastModified": "2017-09-19T21:52:10.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3421.26-google-kvm-centos-7-go_agent.tgz"
   }
 ]
