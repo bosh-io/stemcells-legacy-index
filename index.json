@@ -46302,5 +46302,29 @@
     "Size": 18171,
     "LastModified": "2017-09-19T21:52:10.000Z",
     "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3421.26-google-kvm-centos-7-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-1200.4-aws-xen-hvm-windows2012R2-go_agent.tgz",
+    "ETag": "\"af2b532cb53a9476dc98b0f90468cbfc\"",
+    "SHA1": "4e4960f3d331c57058afeb1186e0beafb0f7dcc2",
+    "Size": 1845,
+    "LastModified": "2017-10-03T18:52:09.000Z",
+    "URL": "https://s3.us-east-2.amazonaws.com/bosh-windows-stemcells-production/light-bosh-stemcell-1200.4-aws-xen-hvm-windows2012R2-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-1200.4-azure-hyperv-windows2012R2-go_agent.tgz",
+    "ETag": "\"c9ec7ff93b43acb90aadf47b9359c068\"",
+    "SHA1": "adaeafabedec8406e377ce6e27075d7d9ba160dd",
+    "Size": 417,
+    "LastModified": "2017-10-03T18:52:09.000Z",
+    "URL": "https://s3.us-east-2.amazonaws.com/bosh-windows-stemcells-production/light-bosh-stemcell-1200.4-azure-hyperv-windows2012R2-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-1200.4-google-kvm-windows2012R2-go_agent.tgz",
+    "ETag": "\"7c460849c00db6b4475502143031b141\"",
+    "SHA1": "ef6aefa5a27fa7e378637a5875911ec3b1e44927",
+    "Size": 1900,
+    "LastModified": "2017-10-03T18:52:09.000Z",
+    "URL": "https://s3.us-east-2.amazonaws.com/bosh-windows-stemcells-production/light-bosh-stemcell-1200.4-google-kvm-windows2012R2-go_agent.tgz"
   }
 ]
