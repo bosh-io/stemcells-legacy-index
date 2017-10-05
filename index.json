@@ -46390,5 +46390,21 @@
     "Size": 385548372,
     "LastModified": "2017-10-05T18:52:09.000Z",
     "URL": "https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3468-warden-boshlite-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3468-aws-xen-hvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"91ef835f20183e85cd5343f26abcb57c\"",
+    "SHA1": "72d0532ef6eb8e7c29283eaf147c7084bc10a4d8",
+    "Size": 18736,
+    "LastModified": "2017-10-05T18:52:09.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3468-aws-xen-hvm-ubuntu-trusty-go_agent.tgz"
+  },
+  {
+    "Key": "light-bosh-stemcell-3468-google-kvm-ubuntu-trusty-go_agent.tgz",
+    "ETag": "\"eb44c46aa8ccc10e2b8195f1d8eba069\"",
+    "SHA1": "f632bdc5955e642985b6daa0317301e1fe9ea533",
+    "Size": 19301,
+    "LastModified": "2017-10-05T18:52:09.000Z",
+    "URL": "https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3468-google-kvm-ubuntu-trusty-go_agent.tgz"
   }
 ]
